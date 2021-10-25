@@ -1,0 +1,31 @@
+const Categories = [
+  {
+    category: "Data Science",
+    value: 9,
+  },
+  { category: "Artificial Intelligence", value: 10 },
+  { category: "Machine Learning", value: 11 },
+  { category: "Deep Learning", value: 12 },
+  { category: "Computer Vision", value: 13 },
+  { category: "Reinforcement Learning", value: 14 },
+  { category: "Python", value: 15 },
+  { category: "Gaming", value: 16 },
+  { category: "Information Technology", value: 17 },
+  { category: "Computer", value: 18 },
+  { category: "Mathematics", value: 19 },
+  { category: "Psychology", value: 20 },
+  // { category: "Sports", value: 21 },
+  // { category: "Geography", value: 22 },
+  // { category: "History", value: 23 },
+  // { category: "Politics", value: 24 },
+  // // { category: "Art", value: 25 },
+  // { category: "Celebrities", value: 26 },
+  // { category: "Animals", value: 27 },
+  // { category: "Vehicles", value: 28 },
+  // { category: "Comics", value: 29 },
+  // { category: "Gadgets", value: 30 },
+  // { category: "Japanese Anime", value: 31 },
+  // { category: "Cartoon and Animations", value: 32 },
+];
+
+export default Categories;
